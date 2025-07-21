@@ -1,8 +1,8 @@
 # Unidad 1 ✅ Rúbrica
 
-**Puntuación Final Set-Seek:** `[  ]` / 20
-**Puntuación Final Apply:** `[  ]` / 5
-**Nota Final:** `[  ]`
+**Puntuación Final Set-Seek:** `[  ]` / 20  
+**Puntuación Final Apply:** `[  ]` / 5  
+**Nota Final:** `[  ]`  
 
 ## Fase set seek
 
