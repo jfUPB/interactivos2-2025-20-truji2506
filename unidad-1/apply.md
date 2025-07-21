@@ -31,6 +31,21 @@ En esta muestra lo que hace es presionar 10 veces la tecla 4 para modificar el d
 
 En esta muestra lo que hago es devolver con la tecla 1 el diseño del cuadro superior derecho, lo que no entiendo muy bien es con que logica se sigue modificando la cuadricula inferior derecha.
 
+##### Posibles interacciones
+
 En esta primera muestra alcanzo a ver que mientras presiono las teclas 2 y 4 se modifican las curvas que se evidencian en el arte elegido, me doy cuenta que presinando las teclas 1 y 3 lo hace es devolver a su estado iniciar dichas curvas, 
-tambien evidencio que hay 3 puntos en sus respectivas figuras se me hacen un poco como 
+tambien evidencio que hay 3 puntos en sus respectivas figuras se me hacen un poco como parecido al uso de varios ploters funcionando al mismo tiempo usando 3 lienzos diferentes.
+
+##### Formas: 
+Veo 3 figuras una redonda, y dos curvas, cada una de estas figuras hay un circulo pequeño donde se puede evidenciar que hace la forma del simbolo (Curvas y circulo), encima de estos circulos a unas lineas que siguen el movimiento de lo circulos, donde se evidencia que estan pegadasa las coordenadas que se mueven los circulos, del punto a al b 
+
+##### Tipografia: 
+En este diseño no se evidencia tipografica alguna.
+
+##### Colores:
+En este diseño carece de colores vividos, solo se evidencia el uso del negro, para las lineas antes mencionadas el gris claro y el borde de los circulos en blanco para que cuando recorra las figuras no se pierda el minicirculo 
+
+##### Ritmo:
+En este diseño si modifica el ritmo de los circulos pequeños ya mencionados, 
+
 
