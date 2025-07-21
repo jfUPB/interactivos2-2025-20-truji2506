@@ -43,5 +43,80 @@ Modifique la velocidad de el mouse en X y en Y para que sea mucho mas rapido el 
 Enlace de mi version modificada:
 https://editor.p5js.org/truji2506/sketches/l1dGuZMlL
 
+### Actividad 04
+#### Utilizando p5.js, crea un programa que genere formas geométricas (círculos, cuadrados, triángulos) con posición, tamaño y color aleatorios. Experimenta con diferentes funciones de p5.js para controlar la aleatoriedad y la apariencia de las formas. Mira, lo que te estoy pidiendo es que JUEGUES, explores y te dejes llevar. Trata de ver la documentación de referencia que tiene p5.js, experimenta
+
+En esta actividad quise ver como lo aleatorio puede dar composiciones abstractas, me dio curiosidad de como se mezclaban los colores y como la distribucion de las figuras pueden mostrar una estetica sin necesidad de un control total, por ende en este ejercicio quise demostrar un poco como la generatividad en codigo puede dar resultados visualmente atractivos.
+
+```c
+function setup() {
+  createCanvas(600, 600);
+  background(30); 
+  noLoop(); 
+}
+
+function draw() {
+  for (let i = 0; i < 1000; i++) {
+    let tipo = int(random(3));
+    let x = random(width);
+    let y = random(height);
+    let tam = random(20, 100);
+    let r = random(255);
+    let g = random(255);
+    let b = random(255);
+    fill(r, g, b, 180);
+    noStroke();
+
+    if (tipo === 0) {
+      ellipse(x, y, tam, tam); 
+    } else if (tipo === 1) {
+      rect(x, y, tam, tam); 
+    } else {
+      triangle(
+        x, y - tam / 2,
+        x - tam / 2, y + tam / 2,
+        x + tam / 2, y + tam / 2
+      ); 
+    }
+  }
+}
+```
+
+Este es un bucle for, que hace?
+ for (let i = 0; i < 1000; i++) 
+ Let i = 0 se inicia un contador llamado i en 0
+ i < 1000 mientras que i sea menor de 1000 sigue ejecutandose 
+ i++ lo que hace es sumar 1 a i hasta llegar a los 1000
+
+ Siendo asi el bloque de codigo que esta adentro de las llaves se ejecuta 1000 veces
+
+
+ let tipo = int(random(3));
+ Esta firma hace que se genera un numero aletorio entre 0 y 2.999... y lo que hace el int es convertirlo en un numero entero 
+donde 0 es un circulo 
+1 un cuadrado 
+2 un triangulo 
+
+let x = random(width);
+let y = random(height);
+Esta firma hace que se generen posiciones aleatorias para verse reflejada la figura dentro del tamaño del lienzo de 600x600
+
+let tam = random(20, 100);
+Esta firma hace que se genere un tamaño aleatorio de la figura en este caso son de 20 a 100 pixeles para que las figuras no tengan siempre el mismo tamaño y sea un poco aburrido 
+
+let r = random(255);
+let g = random(255);
+let b = random(255);
+Esta firma genera tres valores aleatorios entre 0 y 255 que los use para que sean rojo verde y azul y sus respectivos tonos
+
+fill(r, g, b, 180);
+En esta firma es una de las funciones que no sabia como generarlas y busque en IA para realizar transparencia a las figuras usando los colores que ya habia elegido y donde 0 es totalmente transparente y 255 en muy opaco
+
+noStroke();
+En esta firma quise que las figuras no tuvieran contorno 
+
+Link del ejercicio 
+https://editor.p5js.org/truji2506/sketches/WfF47qKCn
+
 
 
