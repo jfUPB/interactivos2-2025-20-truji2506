@@ -33,10 +33,15 @@ Me veo de una forma muy segura, como todos tenemos fortalezas y debilidades cree
 
 #### Reporta los resultados del experimento en la bitácora. Y no olvides incluir el enlace al ejemplo analizado y también el enlace a tu versión modificada. Explica qué hiciste y por qué.
 
-Link de la versión original del diseño generativo
+Link de la versión original del diseño generativo:
 http://www.generative-gestaltung.de/2/sketches/?01_P/P_2_1_5_01
 
-Elegi este diseño imaginando un poco 
+Elegi este diseño imaginando un poco a la estatica que genera un televisor y lo psicodelico que puede llegar a ser un conjunto de circulos
+
+Modifique la velocidad de el mouse en X y en Y para que sea mucho mas rapido el movimiento, la rotacion del modo 1 se dejo sin modificaciones y la rotacion del modo 2 la inverti, tambien realice un cambio de tamaños de ambos para que sean mucho mas grandes y sobre salgan de la backgroung
+
+Enlace de mi version modificada:
+https://editor.p5js.org/truji2506/sketches/l1dGuZMlL
 
 
 
