@@ -83,37 +83,62 @@ function draw() {
 ```
 
 Este es un bucle for, que hace?
- for (let i = 0; i < 1000; i++) 
+```c
+ for (let i = 0; i < 1000; i++)
+```
  Let i = 0 se inicia un contador llamado i en 0
+ 
  i < 1000 mientras que i sea menor de 1000 sigue ejecutandose 
+ 
  i++ lo que hace es sumar 1 a i hasta llegar a los 1000
-
+ 
  Siendo asi el bloque de codigo que esta adentro de las llaves se ejecuta 1000 veces
 
-
+```c
  let tipo = int(random(3));
+```
+
  Esta firma hace que se genera un numero aletorio entre 0 y 2.999... y lo que hace el int es convertirlo en un numero entero 
-donde 0 es un circulo 
+ 
+donde 0 es un circulo
+
 1 un cuadrado 
+
 2 un triangulo 
 
+```c
 let x = random(width);
 let y = random(height);
+```
+
 Esta firma hace que se generen posiciones aleatorias para verse reflejada la figura dentro del tamaño del lienzo de 600x600
 
+```c
 let tam = random(20, 100);
+```
+
 Esta firma hace que se genere un tamaño aleatorio de la figura en este caso son de 20 a 100 pixeles para que las figuras no tengan siempre el mismo tamaño y sea un poco aburrido 
 
+```c
 let r = random(255);
 let g = random(255);
 let b = random(255);
+```
+
 Esta firma genera tres valores aleatorios entre 0 y 255 que los use para que sean rojo verde y azul y sus respectivos tonos
 
+```c
 fill(r, g, b, 180);
+```
+
 En esta firma es una de las funciones que no sabia como generarlas y busque en IA para realizar transparencia a las figuras usando los colores que ya habia elegido y donde 0 es totalmente transparente y 255 en muy opaco
 
+```c
 noStroke();
-En esta firma quise que las figuras no tuvieran contorno 
+```
+
+En esta firma quise que las figuras no tuvieran contorno
+ 
 
 Link del ejercicio 
 https://editor.p5js.org/truji2506/sketches/WfF47qKCn
