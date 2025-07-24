@@ -2,6 +2,7 @@
 
 ## 🛠 Fase: Apply
 
+
 #### Fase 1 y 2 del metodo de deconstrucción y reconstrucción 
 Para esta actividad de aplicación elegí el siguiente ejercicio
 
@@ -85,13 +86,6 @@ https://editor.p5js.org/truji2506/sketches/iPwcwzUsc
 En este punto era totalmente libre lo que hice fue añadirles margenes, separar un poco las curvas, hacer que las curvas estuvieran mas gruesas
 
 https://editor.p5js.org/truji2506/sketches/iPwcwzUsc
-
-
-
-
-
-
-
 
 
 
