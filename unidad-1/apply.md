@@ -2,7 +2,7 @@
 
 ## 🛠 Fase: Apply
 
-#### Fase 1, 2 y 3 del metodo de deconstrucción y reconstrucción 
+#### Fase 1 y 2 del metodo de deconstrucción y reconstrucción 
 Para esta actividad de aplicación elegí el siguiente ejercicio
 
 https://editor.p5js.org/truji2506/sketches/7DwNW5EUn
@@ -46,6 +46,53 @@ En este diseño no se evidencia tipografica alguna.
 En este diseño carece de colores vividos, solo se evidencia el uso del negro, para las lineas antes mencionadas el gris claro y el borde de los circulos en blanco para que cuando recorra las figuras no se pierda el minicirculo 
 
 ##### Ritmo:
-En este diseño si modifica el ritmo de los circulos pequeños ya mencionados, 
+En este diseño si modifica el ritmo de los circulos pequeños ya mencionados.
+
+#### Fase 3 del metodo de deconstrucción y reconstrucción 
+
+##### Matematicas aplicadas
+
+Este codigo dibuja una figura oscilante, usando funciones seno, tambien se deben de generar unas coordenadas 
+
+##### Frecuencias
+
+Debe de tener variables que controlen cuantas oscilaciones se hacen en el eje X y Y 
+
+##### Logica de animación 
+
+Debe de haber una viariable que permita cambiar entre modo animación y como estatico 
+
+##### Interconexiones y estructura 
+
+Debe de haber un setup() que defina el lienzo, el draw(), el drawAnimation() y el keypressed() para que responda a las teclas del usuario y modifique las variables 
+
+#### Fase 4 del metodo de deconstrucción y reconstrucción 
+
+Para este metodo tuve en cuenta el punto 2 y 3 de las fases del metodo, 
+
+Lo que hice fue crear una funcion con Setup() como o mencione antes, introduci un canvas de 600x600 pixeles, cree otra función draw() y cree un background (255) y un stroken(0) para que tenga un contorno negro, cree un beginshape() que esto inicializa una forma de dibujar punto por punto, cree un ciclo para recorrer todos los pixeles a lo largo del eje X, en el let Y se encuenta la matematica de la onda x * 0.005 convierte a X en un angulo en radiadianes * freq si aumentas la frecuencia, se acelera la oscilacion, sin(....) devuelve un valor entre -1 y 1 que hace la forma de la onda *50 es la escala de la altura de la onda + height/2 lo que hace en centrar la onda verticalmente en el lienzo 
+
+https://editor.p5js.org/truji2506/sketches/iPwcwzUsc
+
+#### Fase 5 del metodo de deconstrucción y reconstrucción
+
+Le realice unos cambios para que iniciara desde otros angulos y se le añadio una tecla para que de viera un poco mas cerca 
+
+https://editor.p5js.org/truji2506/sketches/iPwcwzUsc
+
+#### Fase 6 del metodo de deconstrucción y reconstrucción
+
+En este punto era totalmente libre lo que hice fue añadirles margenes, separar un poco las curvas, hacer que las curvas estuvieran mas gruesas
+
+https://editor.p5js.org/truji2506/sketches/iPwcwzUsc
+
+
+
+
+
+
+
+
+
 
 
