@@ -41,3 +41,48 @@ Creo que a enriquecido de una forma muy positiva en mi perfil profesional, desde
 #### ¿Qué estrategia de aprendizaje de esta unidad (ver videos, discutir en grupo, analizar referentes, deconstruir código) te ha funcionado mejor hasta ahora?
 
 Unas de las estrategias de aprendizae de esta unidad que me gusto demasiado y me a funcionado fue ver videos, analizar referentes y deconstruir codigo (Aunque esta ultima presento algunos desafios para mi)
+
+## Actividad 07
+
+#### Intercambien las URLs de sus bitácoras de aprendizaje.
+
+https://github.com/jfUPB/interactivos2-2025-20-ElRojo-coder/blob/unidad1/apply/unidad-1/apply.md
+
+#### Enfócate en la Actividad 05: creación de un patrón generativo simple de tu compañero. Lee detenidamente su reporte de las siete etapas del proceso. Analiza su código y su versión reconstruida.
+
+Me parecio un trabajo muy bien logrado, me parecio muy bien la elección de colores y la repetición de la figura cuando se realiza de una forma de Spam se ve demasiado psicodelico.
+
+#### Usando la rúbrica de la actividad para evaluar su trabajo y escribe deja un comentario de retroalimentación constructivo. Esto lo debes hace en tu bitácora.
+
+Lo dicho, el trabajo me parecio muy bien logrado, me gusto mucho, en un futuro puede pensar en potenciar su elaboración utilizando mas figuras geometricas como cuadrado y triangulos, tambien que pueda hacer una función contraria al diseño ya establecido
+
+#### Conversa con tu compañero sobre su proceso y tu retroalimentación. ¿Qué aprendieron el uno del otro? ¿Cómo pueden mejorar sus procesos en el futuro?
+
+Creo que el compañero tiene mucha creatividad, y entiende muy bien su codigo, aprendí a llevar mas allá mis trabajos con colores para crear diseños mas vistosos 
+
+## Actividad 08
+
+#### Continuar: ¿Qué actividad, discusión o recurso de esta unidad te ayudó más a entender qué es el diseño generativo y te motivó a explorar?
+
+Una de actividades que me ayudo mas profundamente a entender el diseño generativo y me motivo a explorar fueron los videos que nos presento el profesor, llevarlos a una forma mas creativa de la aplicación de como esto infiere en tiempo real a los usuarios del producto
+
+#### Dejar de hacer: ¿Hubo algún referente, lectura o parte de la clase que te pareció menos relevante, confusa o que podríamos omitir para enfocarnos en otras cosas?
+
+Creo que no hay nada que dar como irrelevante, pienso que todo aportó para que ayudara al entendimiento del arte y diseño generativo
+
+#### Empezar a hacer: ¿Qué te gustaría que hiciéramos en las próximas unidades? ¿Más teoría, más ejemplos de artistas específicos, más desafíos de codificación desde cero, más tiempo para experimentar?
+
+Pienso que una de las actividades que me ayudo un poco mas a enteder los temas fueron los videos, ya que tienen un poco de todo, ver lo practico y lo teorico de forma explicita, lo desafios me parecieron  demasiado interesantes fue un poco de creatividad, y diseño puro en el codigo, que ahora hace unos años no me imaginaba diseñar con codigo que es algo loco 
+
+#### Método de aprendizaje: ¿Cómo te sentiste al usar el método Deconstrucción/Reconstrucción? ¿Te gustaría que siguiéramos usando este enfoque tan estructurado para aprender nuevos conceptos técnicos? ¿Por qué?
+
+Me parecio desafiante al ppio ya que teniamos que recrear codigo solo por lo que entendemos y queremos llegar un poco mas allá, pero me parecio un metodo super interesante que me gustaria que siguieramos viendo.
+
+#### Comentario adicional: ¿Hay algo más que quieras compartir sobre tu experiencia general hasta ahora?
+
+Quiero aprender mas sobre el diseño generativo, entender mas el codigo ya que para mi ese es mi limitante, creando estruturas y funciones correspondientes
+
+
+
+
+
