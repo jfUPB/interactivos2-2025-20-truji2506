@@ -15,9 +15,6 @@ Escala de desempeño (basada en evidencia verificable):
 1 - Inicial: se realiza un intento mínimo, pero es extremadamente deficiente, no corresponde a lo solicitado o es incomprensible.  
 0 - No realizado: no se presenta evidencia alguna para el criterio. La sección correspondiente en la bitácora está en blanco o no se entrega.  
 
-> [!NOTE]
-> Revisa las actividades de la fase [**Set + Seek**](./set-seek.md) para más detalles.
-
 ### **1. Análisis con Marco Input-Process-Output (Actividad 01)**
 > *Evalúa el análisis de un referente de la Unidad 1 a través del marco I-P-O.*
 > - **5 (Completo y Preciso):** Describe de forma clara y detallada los tres componentes (Input, Process, Output) para el referente elegido, demostrando una comprensión profunda del marco. Las descripciones son específicas y demuestran análisis crítico.
@@ -52,9 +49,6 @@ Escala de desempeño (basada en evidencia verificable):
 **Calificación Obtenida:** `[  ]` / 5
 
 ## Fase apply
-
-> [!NOTE]
-> Revisa las actividades de la fase [**Apply**](./apply.md) para más detalles.
 
 ### Diseño de Experiencia Generativa (Actividad 04)
 
