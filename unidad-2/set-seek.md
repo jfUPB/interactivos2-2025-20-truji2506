@@ -40,3 +40,5 @@ Uno de los diseños que considero mas innovadoras que se pueden mencionar es la 
 ##### ¿Qué cambios crees que se producirían en la experiencia del público si se eliminara alguno de los inputs (por ejemplo, las palabras del público)?
 
 Pienso que en caso de que se eliminaran las palabras del publico la experiencia añadiria una capa mas colaborativa y personal, ya que el espectador no se convertiria en un actor emocional en la experiencia, sino que lo haria en plano y en inercia, para decirlo de otra manera, seria la culminacion de la descarga emocional.
+
+### Actividad 3
