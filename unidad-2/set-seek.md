@@ -30,8 +30,48 @@ El output final que genera la experiencia es por medio de la pantalla y lo que v
 ##### Opresión 
 
 ###### Input
+-  Tono de voz de Neron (Analizada en tiempo real
+-  Posición de Neron en el escenario (Kinect)
 
+###### Process
+- La generación de las particulas de las lagrimas de luz, que va fluctuando mediante la voz de Neron
+- La creación del campo gravitatorio visual que se muestre la silueta de Neron
 
+###### Output
+- Domo con la penumbra azul 
+- Lluvia de las particulas azules
+- La distorsion visual localizada alrededor de Neron
+
+##### Conflicto
+
+###### Input
+- Golpes de voz y percusion del rap
+- Gestos Corporales
+
+###### Process
+- La activacion de visuales con los ataques geometricos por cada golpe
+- El aura que se establece como un escudo que repele los ataques
+- Las hondas de choque que limpian partes del domo
+
+###### Output
+- La escena de batalla visual y sonora
+- Neron se defiende del caos con su cuerpo y voz
+
+##### Revelación
+
+###### Input
+- Las palabras enviadas por el publico desde los celulares
+- El movimiento del artista
+
+###### Process
+- La visualizacion de palabras flotando en el espacio
+- El aura se transforma en llama dorada
+- Al contacto con la llama las palabras se convierten en representaciones visuales poeticas
+
+###### Output
+- La transformacion de emociones en arte
+- La sensacion colectiva de catarsis
+- El publico ve su vulnerabilidad como algo bello y compartido
 
 ##### ¿Qué aspecto del diseño consideras que es más innovador y por qué?
 
