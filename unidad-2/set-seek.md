@@ -95,3 +95,6 @@ Pienso que Neron tiene mucho poder en la creación de la experiencia ya que tien
 
 Para mi la empatia significa, sentir lo que siente el personaje, ponerse en su lugar, pero lo que veo en la experiencia inmersiva de Prometeo no es tanto entender al otro, si no como reconocerse asi mismo en lo que ocurrio o esta ocurriendo.
 La epifania es un momento como de revelacion personal es totalmente vivencial y transformadora, como esta elaborado el ejemplo de la experiencia es que los llevan a sentir algo por si mismos donde los lleva a recrear o crear momentos de verdad interna.
+
+### Actividad 04
+
