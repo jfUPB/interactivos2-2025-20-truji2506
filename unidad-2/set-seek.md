@@ -82,3 +82,16 @@ Uno de los diseños que considero mas innovadoras que se pueden mencionar es la 
 Pienso que en caso de que se eliminaran las palabras del publico la experiencia añadiria una capa mas colaborativa y personal, ya que el espectador no se convertiria en un actor emocional en la experiencia, sino que lo haria en plano y en inercia, para decirlo de otra manera, seria la culminacion de la descarga emocional.
 
 ### Actividad 3
+
+#### Explica con tus propias palabras la diferencia entre un “evento” en una película tradicional y un “nodo generativo” en la experiencia de “Prometeo”.
+
+Para mi en un pelicula tradicional un evento es un punto fijo de la historia, que ya estaba escrito y todos los espectadores lo van a vivir de la misma manera, a diferencia de un nodo generativo que no define lo que va a pasar, pienso que el nodo es un momento de apertura que da lugar a multiples futuros posibles, que es como crear condiciones para que la historia surja
+
+#### ¿Quién crees que tiene más “poder” o “agencia” en la creación de la experiencia final de “Prometeo”: el artista, el público o los diseñadores del sistema? Justifica tu respuesta.
+
+Pienso que Neron tiene mucho poder en la creación de la experiencia ya que tiene el poder en los ritmos, movimiento corporales, etc. pero creo que los diseñadores del sistema tambien tiene poder ya que son los creadores de que el publico sienta el rap en su maximo explendor llevando al publico a sentir el mensaje de la letra y pienso que los dos pueden ser un gran equpo, tanto como el artista y los diseñadores del sistema, hacer parte de la experiencia al publico pienso que mas agencia, llevar a interactuar al publico por medio de un sistema para que sea una experiencia inmersiva me parece brutal, aunque sea importante que el publico se relacione con la experiencia, no se puede dejar al libre albedrio y tienen que haber contextos prediseñados.
+
+#### El documento dice que el objetivo es generar “EPIFANÍAS” en lugar de “empatía”. ¿Qué crees que significa esto en el contexto de una experiencia inmersiva?
+
+Para mi la empatia significa, sentir lo que siente el personaje, ponerse en su lugar, pero lo que veo en la experiencia inmersiva de Prometeo no es tanto entender al otro, si no como reconocerse asi mismo en lo que ocurrio o esta ocurriendo.
+La epifania es un momento como de revelacion personal es totalmente vivencial y transformadora, como esta elaborado el ejemplo de la experiencia es que los llevan a sentir algo por si mismos donde los lleva a recrear o crear momentos de verdad interna.
