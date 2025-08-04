@@ -31,9 +31,12 @@ El output final que genera la experiencia es por medio de la pantalla y lo que v
 
 ###### Input
 -  Tono de voz de Neron (Analizada en tiempo real)
+
 Un espectro que ayude analizar la fuerza de la voz y lo que quiere llevar la canción de Neron
+
 -  Posición de Neron en el escenario (Kinect)
-Teniendo un
+  
+Capturando por medio de kinect sus movimientos, o por medio de un sistema de tracking optico
 
 ###### Process
 - La generación de las particulas de las lagrimas de luz, que va fluctuando mediante la voz de Neron
@@ -48,7 +51,12 @@ Teniendo un
 
 ###### Input
 - Golpes de voz y percusion del rap
+
+detectando con analisis de picos de amplitud y ritmo del audio en tiempo real
+
 - Gestos Corporales
+
+como brazos alzados o manotazos detectados con sensores de movimiento o vision por computadora
 
 ###### Process
 - La activacion de visuales con los ataques geometricos por cada golpe
@@ -63,7 +71,12 @@ Teniendo un
 
 ###### Input
 - Las palabras enviadas por el publico desde los celulares
+
+Recibidas en tiempo real por una interfaz movil conectada a los proyectores del domo
+
 - El movimiento del artista
+
+Seguido por tracking como en la Fase 1
 
 ###### Process
 - La visualizacion de palabras flotando en el espacio
@@ -98,6 +111,5 @@ Pienso que Neron tiene mucho poder en la creación de la experiencia ya que tien
 Para mi la empatia significa, sentir lo que siente el personaje, ponerse en su lugar, pero lo que veo en la experiencia inmersiva de Prometeo no es tanto entender al otro, si no como reconocerse asi mismo en lo que ocurrio o esta ocurriendo.
 La epifania es un momento como de revelacion personal es totalmente vivencial y transformadora, como esta elaborado el ejemplo de la experiencia es que los llevan a sentir algo por si mismos donde los lleva a recrear o crear momentos de verdad interna.
 
-Mitologia griega 
 
 
