@@ -6,7 +6,7 @@
 
 ## Diseño de experiencia inmersiva en el domo
 
-#### Título del Proyecto: 
+### Título del Proyecto: 
 
 Ambrosía: "El Despertar Silencioso"
 
@@ -107,3 +107,4 @@ Gracias a todos los que han estado ahí
 A todos los que ponen su grano de arena 
 Este sueño no es solo mío 
 Es de todos los que han sido partícipes de esta colección 
+
