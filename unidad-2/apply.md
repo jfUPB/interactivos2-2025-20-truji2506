@@ -10,9 +10,11 @@
 
 Ambrosía: "El Despertar Silencioso"
 
-Canción seleccionada: 
+### Canción seleccionada: 
 
 Tema número 2 del album “Ambrosía” de Neron Arcano 
+
+### Tema transcrito:
 
 Arcano, Eron Arcano 
 Busco, busco la ambrosía 
@@ -107,4 +109,5 @@ Gracias a todos los que han estado ahí
 A todos los que ponen su grano de arena 
 Este sueño no es solo mío 
 Es de todos los que han sido partícipes de esta colección 
+
 
