@@ -113,3 +113,8 @@ Cuando recibe un mensaje del servidor ('message') muestra en consola los datos r
 
 Si se desconecta: muestra "Visuales desconectadas"
 
+#### Un enlace a un video en youtube que muestre el funcionamiento de la aplicación.
+
+https://youtube.com/shorts/5QnvySDuX5Q
+
+
