@@ -255,3 +255,12 @@ El círculo se dibuja en el centro de la pantalla con 200 px de diámetro.
 ### Un enlace a un video de youtube donde demuestres el funcionamiento de las aplicaciones con todos los requisitos solicitados.
 
 https://youtube.com/shorts/fJdSMvri29E?feature=share
+
+### Imagenes de referencia
+
+<img width="1915" height="907" alt="image" src="https://github.com/user-attachments/assets/7afe7d9f-39c3-4261-a00f-07df1420e553" />
+
+![WhatsApp Image 2025-08-21 at 2 32 12 PM](https://github.com/user-attachments/assets/ea0c5a8f-c55d-43e0-a06b-0d086aa2e233)
+
+
+
