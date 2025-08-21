@@ -172,3 +172,82 @@ estado 1: velocidad entre 1 y 5, color rojo.
 estado 2: velocidad entre 5 y 10, color azul.
 
 estado 3: velocidad entre 10 y 20, color verde y tamaño aleatorio.
+
+### Ejercicio 2
+
+### El código de la aplicación de visuales.
+
+#### index.html
+
+```c
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.11.0/lib/p5.min.js"></script>
+    <script src="https://cdn.socket.io/4.7.5/socket.io.min.js"></script>
+    <script src="sketch.js"></script>
+    <title>Desktop p5.js Application</title>
+    <script src="/socket.io/socket.io.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
+<script src="sketchVisuales.js"></script> <!-- o sketchControlRemoto.js -->
+</head>
+<body></body>
+</html>
+```
+#### scketch.js
+```c
+let socket;
+let estado = "negro";
+
+function setup() {
+  createCanvas(windowWidth, windowHeight);
+  background(0);
+
+  socket = io();
+  socket.on("message", (msg) => {
+    console.log("Recibido:", msg);
+    estado = msg;
+  });
+}
+
+function draw() {
+  background(0);
+
+  fill(estado === "rojo" ? "red" :
+       estado === "verde" ? "green" :
+       estado === "azul" ? "blue" : "white");
+
+  ellipse(width/2, height/2, 200, 200);
+}
+```
+
+Se declara una variable socket (para conectarse al servidor con Socket.IO).
+
+estado es el estado inicial, en este caso "negro".
+
+setup() se ejecuta una sola vez al inicio.
+
+Crea un lienzo que ocupa toda la pantalla.
+
+Se conecta con el servidor (io()).
+
+Cada vez que el servidor envía un evento "message", lo guarda en estado.
+Ejemplo: si el servidor manda "rojo", ahora estado = "rojo".
+
+draw() se ejecuta en bucle.
+
+Pone el fondo negro.
+
+Según lo que tenga la variable estado:
+
+"rojo" → círculo rojo
+
+"verde" → círculo verde
+
+"azul" → círculo azul
+
+cualquier otro valor → círculo blanco
+
+El círculo se dibuja en el centro de la pantalla con 200 px de diámetro.
