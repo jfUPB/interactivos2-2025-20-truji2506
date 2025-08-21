@@ -3,7 +3,7 @@
 
 ## 🤔 Fase: Reflect
 
-### Actividad 5
+### Actividad 4
 
 ### Arquitectura y flujo de datos: explica el flujo completo de datos desde que un cliente móvil envía información hasta que llega a la aplicación de visuales, incluyendo cómo implementaste la máquina de estados. ¿Cuál es el rol de cada componente en tu sistema?
 
@@ -17,6 +17,7 @@ El problema estaba en separar los sketches según su función los resolvimos asi
 
 Se refleja el Input-Process-Output: móvil = input, servidor = process, PC = output, la agencia distribuida aparece porque varios usuarios pueden influir en las visuales, la infraestructura ya está lista para integrar visuales generativas mas complejas en la siguiente unidad.
 
-### Actividad 6
+### Actividad 5
 
+### Actividad 6
 
