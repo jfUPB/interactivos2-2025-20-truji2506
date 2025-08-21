@@ -251,3 +251,7 @@ Según lo que tenga la variable estado:
 cualquier otro valor → círculo blanco
 
 El círculo se dibuja en el centro de la pantalla con 200 px de diámetro.
+
+### Un enlace a un video de youtube donde demuestres el funcionamiento de las aplicaciones con todos los requisitos solicitados.
+
+https://youtube.com/shorts/fJdSMvri29E?feature=share
