@@ -34,3 +34,9 @@ Output: transformaciones grupales; redes doradas; ondas de calma final.
 
 <img width="782" height="687" alt="imagen" src="https://github.com/user-attachments/assets/52879b43-44c7-4417-9abe-de4036f7926e" />
 
+
+Link video en Youtube 
+
+https://youtu.be/9OV_cOIPOJ8
+
+
