@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Control Remoto del Director</title>
+    <script src="/socket.io/socket.io.js"></script>
+    <style>
+        body { font-family: monospace; background: #1a1a1a; color: #eee; text-align: center; padding: 20px; }
+        .container { max-width: 600px; margin: auto; }
+        .monitor { border: 1px solid #444; background: #2a2a2a; padding: 15px; margin-bottom: 20px; border-radius: 8px; }
+        .phase-controls button { font-size: 18px; padding: 12px 25px; margin: 5px; cursor: pointer; border: 2px solid #555; border-radius: 8px; background: #333; color: #ccc; transition: all 0.2s; }
+        .phase-controls button.active { border-color: #eee; color: white; transform: scale(1.05); }
+        .director-params { margin-top: 30px; border-top: 1px solid #444; padding-top: 20px; }
+        .param-slider { display: none; /* Se mostrarán con JS */ }
+        .param-slider.visible { display: block; }
+        input[type="range"] { width: 80%; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cabina del Director</h1>
+        <div class="monitor" id="monitor-div">Conectando...</div>
+
+        <div class="phase-controls">
+            <button id="btn-phase-1" onclick="changePhase(1)">FASE 1: Espejo</button>
+            <button id="btn-phase-2" onclick="changePhase(2)">FASE 2: Nostalgia</button>
+            <button id="btn-phase-3" onclick="changePhase(3)">FASE 3: Midas</button>
+        </div>
+
+        <div class="director-params">
+            <div id="param-phase-1" class="param-slider">
+                <label for="slider-p1">Sensibilidad General</label><br>
+                <input type="range" id="slider-p1" min="0" max="1" value="0.5" step="0.01">
+            </div>
+            <div id="param-phase-2" class="param-slider">
+                <label for="slider-p2">Energía de Partículas</label><br>
+                <input type="range" id="slider-p2" min="0" max="1" value="0.5" step="0.01">
+            </div>
+            <div id="param-phase-3" class="param-slider">
+                <label for="slider-p3">Balance Oro <-> Alquitrán</label><br>
+                <input type="range" id="slider-p3" min="0" max="1" value="0.5" step="0.01">
+            </div>
+        </div>
+    </div>
+    <script src="sketch.js"></script>
+</body>
+</html>
