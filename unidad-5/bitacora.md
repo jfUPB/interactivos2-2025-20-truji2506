@@ -23,16 +23,16 @@ Has utilizado la rúbrica para obtener tu **"Nota Base"**. Ahora, reflexiona hon
 
 >    ## 1. Estructura Escénica (vista frontal, Maze Runner)  
 
-    ### Dos columnas laterales  
+    Dos columnas laterales  
 	Material (Ladrillo), geometrías altas, sombreadas, mientras que va evolucionando el tema se va quebrando más. 
 
-    ### Cascada central 
+    Cascada central 
 	flujo de partículas para simular caída infinita, se tiene en cuenta el "Viento" y la "Turbulencia" además la idea es que cuando llegue a los picos el tema aumente el cauce. 
 
-    ### Antenas digitales 
+    Antenas digitales 
 	Se van generando a medida que el público se conecta y el público pueda elegir qué tipo de color tenga en la punta de la antena. 
 
->     2. Narrativa Temporal Sincronizada con la Canción 
+>    ## 2. Narrativa Temporal Sincronizada con la Canción 
 
  
 
@@ -141,6 +141,7 @@ de este repositorio.
 ### Evidencia 5: interpretación en tiempo real
 
 [ ] Esta casilla la marcará el profesor cuando realices la interpretación en tiempo real.
+
 
 
 
