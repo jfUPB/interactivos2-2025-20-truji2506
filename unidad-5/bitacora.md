@@ -125,7 +125,129 @@ Has utilizado la rúbrica para obtener tu **"Nota Base"**. Ahora, reflexiona hon
 
 ## Evidencia 2: diseño de inputs de clientes
 
-> Escribe aquí. Inicia cada renglón con un "> "
+> ## Fase 1:  
+
+    Génesis (0:00 – 1:17) 
+
+    Sensación: Misterio, surgimiento, expectativa. 
+
+    Inputs 
+
+    Audio: FFT bajos y medios muy suaves. 
+
+    Público: primeras conexiones → generan antenas digitales. 
+
+    Visualista: setea estado inicial (oscuridad + cascada tenue). 
+
+ 
+
+    Process 
+
+    FFT bajos → controlan densidad mínima de partículas en cascada. 
+
+    FFT medios → ligeros brillos en columnas. 
+
+    Conexiones vía socket.io → instancing de antenas. 
+
+    Noise muy bajo en columnas para apenas dar textura. 
+
+ 
+
+    Outputs 
+
+    Cascada tenue en azul oscuro. 
+
+    Columnas apenas visibles (siluetas). 
+
+    Antenas comienzan a aparecer con colores seleccionados por el público. 
+
+    Atmósfera oscura, expectativa creciente. 
+
+ 
+ 
+
+> ## Fase 2:  
+
+    Clímax y Ruptura (1:17 – 2:22) 
+
+    Sensación: Explosión de energía, caos controlado, quiebre estructural. 
+
+    Inputs 
+
+    Audio: FFT graves (densidad), FFT agudos (chispas), Envelope CHOP (intensidad global). 
+
+    Público: antenas ya generadas, vibran con la música. 
+
+    Visualista: puede disparar efectos de fractura más intensos. 
+
+ 
+
+    Process 
+
+ 
+
+    Graves - Más caudal de cascada (más partículas y velocidad). 
+
+    Agudos -  Aparición de chispas al pie de la cascada. 
+
+    Envelope CHOP - modula brillo global. 
+
+    Noise TOP - Displace TOP en columnas, fracturas dinámicas. 
+
+    Antenas - vibración vertical sincronizada con ondas sonoras. 
+
+ 
+
+    Outputs 
+
+    Cascada muy densa y clara, con chispas impactando el suelo. 
+
+    Columnas iluminadas, agrietadas, fracturándose progresivamente. 
+
+    Antenas vibrando, respondiendo directamente al ritmo. 
+
+    Escena cargada, sensación de desbordamiento. 
+
+ 
+ 
+
+## Fase 3:  
+
+    Resolución y Transformación (2:22 – 3:51) 
+
+    Sensación: Catarsis, transformación, cierre. 
+
+    Inputs 
+
+    Audio: FFT agudos dominantes (ascenso), Script DAT para colorimetría (estaciones). 
+
+    Público: antenas reducidas, vuelven a crecer en cierre. 
+
+    Visualista: controla el cambio de paleta estacional. 
+
+ 
+
+    Process 
+
+    Script DAT - Cambia paleta cromática de la cascada según estación (invierno, primavera, verano, otoño). 
+
+    FFT agudos - Partículas ascienden en cascada (reverse flow). 
+
+    Noise más intenso en columnas - Desgaste visual. 
+
+    LFO + FFT - Escalado progresivo de antenas. 
+
+ 
+
+    Outputs 
+
+    Cascada multicolor (ciclo de estaciones), luego regresa al azul inicial. 
+
+    Columnas desgastadas, fracturadas, marcadas por el paso del agua. 
+
+    Antenas reducidas, crecen al cierre, formando un skyline digital. 
+
+    Escena final: sensación de que todo ha cambiado, cierre poético. 
 >
 
 ## Evidencia 3: código del proyecto
@@ -141,6 +263,7 @@ de este repositorio.
 ### Evidencia 5: interpretación en tiempo real
 
 [ ] Esta casilla la marcará el profesor cuando realices la interpretación en tiempo real.
+
 
 
 
