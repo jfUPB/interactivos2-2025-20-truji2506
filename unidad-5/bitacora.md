@@ -21,7 +21,102 @@ Has utilizado la rúbrica para obtener tu **"Nota Base"**. Ahora, reflexiona hon
 
 ## Evidencia 1: concepto de visuales en vivo
 
-> Escribe aquí. Inicia cada renglón con un "> "
+>     1. Estructura Escénica (vista frontal, Maze Runner)  
+
+     Dos columnas laterales,  Material (Ladrillo), geometrías altas, sombreadas, mientras que va evolucionando el tema se va quebrando más. 
+
+    Cascada central, flujo de partículas para simular caída infinita, se tiene en cuenta el "Viento" y la "Turbulencia" además la idea es que cuando llegue a        los picos el tema aumente el cauce. 
+
+    Parte superior antenas digitales que se van generando a medida que el público se conecta y el público pueda elegir qué tipo de color tenga en la punta de       la antena. 
+
+       2. Narrativa Temporal Sincronizada con la Canción 
+
+ 
+
+    Tiempo
+
+    0:00 – 0:41 
+	
+    Visual
+    Oscuridad inicial, cascada tenue (Azul oscuro) 
+
+    Columnas apenas visibles 
+
+    El público generando antenas 
+
+	
+    Procesamiento
+    Ruido bajo en partículas, densidad controlada. FFT → mínima actividad. 
+
+    Tiempo
+    0:41 – 1:17 
+	
+    Visual
+    Cascada empieza a tener mayor caudal 
+
+    Columnas se hacen más visibles 
+
+    Ya el público conectado "Antenas" 
+
+	
+    Procesamiento
+    FFT medios → velocidad de caída ↑. Columnas iluminadas de frente.
+    
+    Tiempo
+    1:17 – 1:47 
+	
+    Visual
+    Cascada cambia de color (Azul más claro) 
+
+    Ya habría mayor luz en el ambiente 
+
+    Las columnas tienen toda la luz, y empieza a quebrace de una forma leve  
+
+	
+    Procesamiento
+    Envelope CHOP modula intensidad. 
+
+    Tiempo
+    1:47 – 2:22 
+	
+    Visual
+    Cascada muy densa, color azul casi transparente, cae el agua al piso como si fueran chispas 
+
+    Las columnas empiezan a quebrarse más como si se fuera a salir el caudal del agua  
+
+    Las antenas se mueven de una forma vertical, con las ondas sonoras  
+
+	
+    Procesamiento
+    Graves ↑ densidad, agudos ↑ chispas. 
+
+    Tiempo
+    2:22 – 3:10 
+	
+    Visual
+    Cascada multicolor con la colorimetría de las estaciones del año  
+
+    Las columnas se evidencian desgastadas y muy quebradas 
+
+    Las antenas pierden tamaño  
+
+	
+    Procesamiento
+    Script DAT decide estación activa (visualista controla con slider). 
+
+    Tiempo
+    3:10 – 3:51 
+	
+    Visual
+    La cascada vuelve a su estado inicial con su color predeterminado 
+
+    Las columnas quedan igual que en climax  
+
+    Las antenas van aumentando tu tamaño hasta el final del tema 
+
+	
+    Procesamiento
+    FFT agudos → partículas ascienden. 
 >
 
 
@@ -43,5 +138,6 @@ de este repositorio.
 ### Evidencia 5: interpretación en tiempo real
 
 [ ] Esta casilla la marcará el profesor cuando realices la interpretación en tiempo real.
+
 
 
