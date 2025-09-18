@@ -254,17 +254,19 @@ Has utilizado la rúbrica para obtener tu **"Nota Base"**. Ahora, reflexiona hon
 
 ## Evidencia 3: código del proyecto
 
-[ ] Marca esta casilla con una "x" cuando hayas subido el código completo a la carpeta proyecto 
+[x] Marca esta casilla con una "x" cuando hayas subido el código completo a la carpeta proyecto 
 de este repositorio.
 
 ### Evidencia 4: video demo del sistema funcionando
 
-[ESTE ES MI DEMO]([https://youtu.be/your-video-link](https://youtu.be/HQWNMD-YU44))
+Este es nuestro Demo
+https://www.youtube.com/watch?v=HQWNMD-YU44
 
 
 ### Evidencia 5: interpretación en tiempo real
 
 [ ] Esta casilla la marcará el profesor cuando realices la interpretación en tiempo real.
+
 
 
 
