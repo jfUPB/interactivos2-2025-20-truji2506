@@ -1,271 +1,121 @@
-# Evidencias de la unidad 5
-
-## **Autoevaluación**
-
-**Instrucciones para el estudiante:**
-
-Has utilizado la rúbrica para obtener tu **"Nota Base"**. Ahora, reflexiona honestamente sobre la calidad de tu trabajo, tu compromiso personal y, si aplica, cómo has utilizado herramientas de IA generativa. Tu capacidad para explicar, defender y demostrar un dominio profundo de **todo** el contenido de tu trabajo es el criterio final.
-
-**Nota Final = (Nota Base según Rúbrica) x (Factor de Ajuste de Calidad)= () x () = ??**
-
-| Nivel de Calidad y Compromiso | Descripción de la Calidad (Incluyendo el Uso Responsable de IA) | Factor de Ajuste (Multiplicador) |
-| :--- | :--- | :--- |
-| **CALIDAD EXCELENTE / DOMINIO TOTAL** | La ejecución del trabajo es impecable. **Si usé IA, fue como una herramienta** de inspiración, para explorar ideas o mejorar la redacción, pero cada palabra y concepto ha sido verificado, asimilado y reescrito por mí. **Domino y puedo defender con profundidad cada afirmación** del trabajo como si la hubiera generado yo mismo desde cero. El resultado refleja mi máximo estándar de calidad. | **1.0** |
-| **ALTA CALIDAD / COMPRENSIÓN SÓLIDA** | La calidad general es muy alta. **Si usé IA, fue como un asistente**, pero he editado y adaptado significativamente el contenido para asegurar su precisión y mi propia comprensión. **Puedo explicar y defender con solidez todo el trabajo**, aunque quizás algún detalle específico requeriría una consulta rápida a mis apuntes. El compromiso fue notable. | **0.9** |
-| **BUENA CALIDAD / COMPRENSIÓN FUNCIONAL** | El trabajo es correcto y la calidad es buena. **Si usé IA, me apoyé en ella para generar algunas secciones**, y luego las edité para darles coherencia. **Comprendo el contenido a nivel general y puedo explicar las ideas principales**, pero reconozco que no he profundizado en todos los matices y podría tener dificultades para defender los detalles más finos. | **0.8** |
-| **CALIDAD SUFICIENTE / COMPRENSIÓN SUPERFICIAL** | La calidad es visiblemente mejorable. **Mi dependencia de la IA fue alta** y mi labor se centró más en "ensamblar" y "maquillar" que en comprender a fondo. **Podría explicar de qué trata el trabajo, pero me costaría mucho justificar o defender las ideas con mis propias palabras** si me lo preguntaran. El esfuerzo fue el mínimo indispensable. | **0.7** |
-| **CALIDAD DEFICIENTE / COMPRENSIÓN CASI NULA** | La calidad del trabajo es pobre. **La mayor parte del contenido fue generado por IA y apenas lo he modificado.** La falta de esfuerzo y compromiso es evidente. Reconozco que **soy incapaz de explicar o defender la mayor parte del trabajo**, ya que no pasé por un proceso de estudio y apropiación del conocimiento. | **0.5** |
-| **FRAUDE ACADÉMICO / AUTORÍA NULA** | **El trabajo es una copia directa de una IA o de otra fuente, sin un proceso de estudio o apropiación.** No he realizado el trabajo intelectual requerido y, por lo tanto, **no puedo responder por su contenido de ninguna manera.** Esto es equivalente a no haber entregado el trabajo. | **0.0** |
-
----
-
 ## Evidencia 1: concepto de visuales en vivo
 
->    ## 1. Estructura Escénica (vista frontal, Maze Runner)  
-
-    Dos columnas laterales  
-	Material (Ladrillo), geometrías altas, sombreadas, mientras que va evolucionando el tema se va quebrando más. 
-
-    Cascada central 
-	flujo de partículas para simular caída infinita, se tiene en cuenta el "Viento" y la "Turbulencia" además la idea es que cuando llegue a los picos el tema aumente el cauce. 
-
-    Antenas digitales 
-	Se van generando a medida que el público se conecta y el público pueda elegir qué tipo de color tenga en la punta de la antena. 
-
->    ## 2. Narrativa Temporal Sincronizada con la Canción 
-
- 
-
-    Tiempo
-
-    0:00 – 0:41 
-	
-    Visual
-    Oscuridad inicial, cascada tenue (Azul oscuro) 
-
-    Columnas apenas visibles 
-
-    El público generando antenas 
-
-	
-    Procesamiento
-    Ruido bajo en partículas, densidad controlada. FFT → mínima actividad. 
-
-    Tiempo
-    0:41 – 1:17 
-	
-    Visual
-    Cascada empieza a tener mayor caudal 
-
-    Columnas se hacen más visibles 
-
-    Ya el público conectado "Antenas" 
-
-	
-    Procesamiento
-    FFT medios → velocidad de caída ↑. Columnas iluminadas de frente.
-    
-    Tiempo
-    1:17 – 1:47 
-	
-    Visual
-    Cascada cambia de color (Azul más claro) 
-
-    Ya habría mayor luz en el ambiente 
-
-    Las columnas tienen toda la luz, y empieza a quebrace de una forma leve  
-
-	
-    Procesamiento
-    Envelope CHOP modula intensidad. 
-
-    Tiempo
-    1:47 – 2:22 
-	
-    Visual
-    Cascada muy densa, color azul casi transparente, cae el agua al piso como si fueran chispas 
-
-    Las columnas empiezan a quebrarse más como si se fuera a salir el caudal del agua  
-
-    Las antenas se mueven de una forma vertical, con las ondas sonoras  
-
-	
-    Procesamiento
-    Graves ↑ densidad, agudos ↑ chispas. 
-
-    Tiempo
-    2:22 – 3:10 
-	
-    Visual
-    Cascada multicolor con la colorimetría de las estaciones del año  
-
-    Las columnas se evidencian desgastadas y muy quebradas 
-
-    Las antenas pierden tamaño  
-
-	
-    Procesamiento
-    Script DAT decide estación activa (visualista controla con slider). 
-
-    Tiempo
-    3:10 – 3:51 
-	
-    Visual
-    La cascada vuelve a su estado inicial con su color predeterminado 
-
-    Las columnas quedan igual que en climax  
-
-    Las antenas van aumentando tu tamaño hasta el final del tema 
-
-	
-    Procesamiento
-    FFT agudos → partículas ascienden. 
+> 1.	Estructura Escénica (vista frontal, Maze Runner)  
+> 
+>•	Dos columnas laterales,  Material (Ladrillo), geometrías altas, sombreadas, mientras que va evolucionando el tema se va quebrando más.  
+>•	Cascada central, flujo de partículas para simular caída infinita, se tiene en cuenta el "Viento" y la "Turbulencia" además la idea es que cuando llegue a los picos el tema aumente el cauce.  
+>•	Parte superior antenas digitales que se van generando a medida que el público se conecta y el público pueda elegir qué tipo de color tenga en la punta de la antena.  
+>   
+>2.	Narrativa Temporal Sincronizada con la Canción  
+>  
+>Tiempo 	Visual 	Procesamiento  
+>0:00 – 0:41 	•	Oscuridad inicial, cascada tenue (Azul oscuro)  
+>•	Columnas apenas visibles  
+>•	El público generando antenas 	Ruido bajo en partículas, densidad controlada. FFT → mínima actividad.  
+>0:41 – 1:17 	•	Cascada empieza a tener mayor caudal  
+>•	Columnas se hacen más visibles  
+>•	Ya el público conectado "Antenas" 	FFT medios → velocidad de caída ↑. Columnas iluminadas desde atrás.  
+>1:17 – 1:47 	•	Cascada cambia de color (Azul más claro)  
+>•	Ya habría mayor luz en el ambiente  
+>•	Las columnas tienen toda la luz, y empieza a quebrace de una forma leve  	Envelope CHOP modula intensidad.  
+>1:47 – 2:22 	•	Cascada muy densa, color azul casi transparente, cae el agua al piso como si fueran chispas  
+>•	Las columnas empiezan a quebrarse más como si se fuera a salir el caudal del agua   
+>•	Las antenas se mueven de una forma vertical, con las ondas sonoras  	Graves ↑ densidad, agudos ↑ chispas.   
+>2:22 – 3:10 	•	Cascada multicolor con la colorimetría de las estaciones del año   
+>•	Las columnas se evidencian desgastadas y muy quebradas  
+>•	Las antenas pierden tamaño  	Script DAT decide estación activa (visualista controla con slider).   
+>3:10 – 3:51 	•	La cascada vuelve a su estado inicial con su color predeterminado   
+>•	Las columnas quedan igual que en climax    
+>•	Las antenas van aumentando tu tamaño hasta el final del tema 	FFT agudos → partículas ascienden.   
+>   
+>Fase 1:  
+>Génesis (0:00 – 1:17)   
+>Sensación: Misterio, surgimiento, expectativa.   
+>Inputs   
+>•	Audio: FFT bajos y medios muy suaves.    
+>•	Público: primeras conexiones → generan antenas digitales.    
+>•	Visualista: setea estado inicial (oscuridad + cascada tenue).   
+>   
+>Process   
+>•	FFT bajos → controlan densidad mínima de partículas en cascada.  
+>•	FFT medios → ligeros brillos en columnas.  
+>•	Conexiones vía socket.io → instancing de antenas.  
+>•	Noise muy bajo en columnas para apenas dar textura.   
+>   
+>Outputs   
+>•	Cascada tenue en azul oscuro.  
+>•	Columnas apenas visibles (siluetas).  
+>•	Antenas comienzan a aparecer con colores seleccionados por el público.  
+>•	Atmósfera oscura, expectativa creciente.  
+>   
+>   
+>Fase 2:  
+>Clímax y Ruptura (1:17 – 2:22)  
+>Sensación: Explosión de energía, caos controlado, quiebre estructural.  
+>Inputs  
+>•	Audio: FFT graves (densidad), FFT agudos (chispas), Envelope CHOP (intensidad global).  
+>•	Público: antenas ya generadas, vibran con la música.  
+>•	Visualista: puede disparar efectos de fractura más intensos.  
+> 
+>Process  
+>  
+>•	Graves - Más caudal de cascada (más partículas y velocidad).  
+>•	Agudos -  Aparición de chispas al pie de la cascada.  
+>•	Envelope CHOP - modula brillo global.  
+>•	Noise TOP - Displace TOP en columnas, fracturas dinámicas.  
+>•	Antenas - vibración vertical sincronizada con ondas sonoras.  
+>  
+>Outputs  
+>•	Cascada muy densa y clara, con chispas impactando el suelo.  
+>•	Columnas iluminadas, agrietadas, fracturándose progresivamente.  
+>•	Antenas vibrando, respondiendo directamente al ritmo.  
+>•	Escena cargada, sensación de desbordamiento.  
+> 
+> 
+>Fase 3:  
+>Resolución y Transformación (2:22 – 3:51)  
+>Sensación: Catarsis, transformación, cierre.  
+>Inputs  
+>•	Audio: FFT agudos dominantes (ascenso), Script DAT para colorimetría (estaciones).  
+>•	Público: antenas reducidas, vuelven a crecer en cierre.  
+>•	Visualista: controla el cambio de paleta estacional.  
+>  
+>Process  
+>•	Script DAT - Cambia paleta cromática de la cascada según estación (invierno, primavera, verano, otoño).  
+>•	FFT agudos - Partículas ascienden en cascada (reverse flow).  
+>•	Noise más intenso en columnas - Desgaste visual.  
+>•	LFO + FFT - Escalado progresivo de antenas.  
+> 
+>Outputs  
+>•	Cascada multicolor (ciclo de estaciones), luego regresa al azul inicial.  
+>•	Columnas desgastadas, fracturadas, marcadas por el paso del agua.  
+>•	Antenas reducidas, crecen al cierre, formando un skyline digital.  
+>•	Escena final: sensación de que todo ha cambiado, cierre poético  
+>  
 >
+> Ideación en clase:
+> <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/862d0b16-a4cf-4b7b-9056-af689eff29da" />
+
 
 
 ## Evidencia 2: diseño de inputs de clientes
 
-> ## Fase 1:  
-
-    Génesis (0:00 – 1:17) 
-
-    Sensación: Misterio, surgimiento, expectativa. 
-
-    Inputs 
-
-    Audio: FFT bajos y medios muy suaves. 
-
-    Público: primeras conexiones → generan antenas digitales. 
-
-    Visualista: setea estado inicial (oscuridad + cascada tenue). 
-
- 
-
-    Process 
-
-    FFT bajos → controlan densidad mínima de partículas en cascada. 
-
-    FFT medios → ligeros brillos en columnas. 
-
-    Conexiones vía socket.io → instancing de antenas. 
-
-    Noise muy bajo en columnas para apenas dar textura. 
-
- 
-
-    Outputs 
-
-    Cascada tenue en azul oscuro. 
-
-    Columnas apenas visibles (siluetas). 
-
-    Antenas comienzan a aparecer con colores seleccionados por el público. 
-
-    Atmósfera oscura, expectativa creciente. 
-
- 
- 
-
-> ## Fase 2:  
-
-    Clímax y Ruptura (1:17 – 2:22) 
-
-    Sensación: Explosión de energía, caos controlado, quiebre estructural. 
-
-    Inputs 
-
-    Audio: FFT graves (densidad), FFT agudos (chispas), Envelope CHOP (intensidad global). 
-
-    Público: antenas ya generadas, vibran con la música. 
-
-    Visualista: puede disparar efectos de fractura más intensos. 
-
- 
-
-    Process 
-
- 
-
-    Graves - Más caudal de cascada (más partículas y velocidad). 
-
-    Agudos -  Aparición de chispas al pie de la cascada. 
-
-    Envelope CHOP - modula brillo global. 
-
-    Noise TOP - Displace TOP en columnas, fracturas dinámicas. 
-
-    Antenas - vibración vertical sincronizada con ondas sonoras. 
-
- 
-
-    Outputs 
-
-    Cascada muy densa y clara, con chispas impactando el suelo. 
-
-    Columnas iluminadas, agrietadas, fracturándose progresivamente. 
-
-    Antenas vibrando, respondiendo directamente al ritmo. 
-
-    Escena cargada, sensación de desbordamiento. 
-
- 
- 
-
-## Fase 3:  
-
-    Resolución y Transformación (2:22 – 3:51) 
-
-    Sensación: Catarsis, transformación, cierre. 
-
-    Inputs 
-
-    Audio: FFT agudos dominantes (ascenso), Script DAT para colorimetría (estaciones). 
-
-    Público: antenas reducidas, vuelven a crecer en cierre. 
-
-    Visualista: controla el cambio de paleta estacional. 
-
- 
-
-    Process 
-
-    Script DAT - Cambia paleta cromática de la cascada según estación (invierno, primavera, verano, otoño). 
-
-    FFT agudos - Partículas ascienden en cascada (reverse flow). 
-
-    Noise más intenso en columnas - Desgaste visual. 
-
-    LFO + FFT - Escalado progresivo de antenas. 
-
- 
-
-    Outputs 
-
-    Cascada multicolor (ciclo de estaciones), luego regresa al azul inicial. 
-
-    Columnas desgastadas, fracturadas, marcadas por el paso del agua. 
-
-    Antenas reducidas, crecen al cierre, formando un skyline digital. 
-
-    Escena final: sensación de que todo ha cambiado, cierre poético. 
->
->![WhatsApp Image 2025-09-14 at 5 21 29 PM(1)](https://github.com/user-attachments/assets/86313e5a-81e2-4659-8fab-3316fb0cb120)
-
+> Diagrama de red:  
+> <img width="1012" height="571" alt="image" src="https://github.com/user-attachments/assets/29fa045d-d426-4a73-8cbe-863171f203f7" />
 
 ## Evidencia 3: código del proyecto
 
-[x] Marca esta casilla con una "x" cuando hayas subido el código completo a la carpeta proyecto 
+[ ] Marca esta casilla con una "x" cuando hayas subido el código completo a la carpeta proyecto 
 de este repositorio.
 
 ### Evidencia 4: video demo del sistema funcionando
 
-Este es nuestro Demo
-https://www.youtube.com/watch?v=HQWNMD-YU44
-
+[ESTE ES MI DEMO](https://www.youtube.com/watch?v=HQWNMD-YU44)
 
 ### Evidencia 5: interpretación en tiempo real
 
 [ ] Esta casilla la marcará el profesor cuando realices la interpretación en tiempo real.
+
 
 
 
