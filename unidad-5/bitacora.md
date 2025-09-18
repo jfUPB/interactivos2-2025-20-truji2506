@@ -249,6 +249,8 @@ Has utilizado la rúbrica para obtener tu **"Nota Base"**. Ahora, reflexiona hon
 
     Escena final: sensación de que todo ha cambiado, cierre poético. 
 >
+>![WhatsApp Image 2025-09-14 at 5 21 29 PM(1)](https://github.com/user-attachments/assets/86313e5a-81e2-4659-8fab-3316fb0cb120)
+
 
 ## Evidencia 3: código del proyecto
 
@@ -263,6 +265,7 @@ de este repositorio.
 ### Evidencia 5: interpretación en tiempo real
 
 [ ] Esta casilla la marcará el profesor cuando realices la interpretación en tiempo real.
+
 
 
 
