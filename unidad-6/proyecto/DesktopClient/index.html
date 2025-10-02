@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Desk (Escena)</title>
+  <style>
+    :root { color-scheme: dark light; }
+    body { font-family: system-ui, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+    fieldset { border: 1px solid #8884; padding: .75rem 1rem; border-radius: 10px; margin-bottom: 1rem; }
+    legend { opacity: .8; }
+    .row { display: flex; gap: .75rem; align-items: center; }
+    input[type="range"] { width: 320px; }
+    pre { background:#1112; padding:.75rem; border-radius:8px; overflow:auto; }
+  </style>
+</head>
+<body>
+  <h1>Desk (Escena)</h1>
+
+  <fieldset>
+    <legend>Time</legend>
+    <label><input type="radio" name="time" value="day" checked> Day</label>
+    <label><input type="radio" name="time" value="night"> Night</label>
+  </fieldset>
+
+  <fieldset>
+    <legend>Season</legend>
+    <div class="row">
+      <input type="range" id="season" min="1" max="4" step="1" value="1">
+      <span id="seasonVal">1</span>
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <legend>Vantage</legend>
+    <label><input type="radio" name="vantage" value="outside" checked> Outside</label>
+    <label><input type="radio" name="vantage" value="inside"> Inside</label>
+  </fieldset>
+
+  <p>Tu antena: <span id="me">—</span> · <span id="meHex">#ffffff</span></p>
+  <pre id="debug"></pre>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="./script.js"></script>
+</body>
+</html>
