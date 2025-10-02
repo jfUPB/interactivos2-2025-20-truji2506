@@ -124,8 +124,8 @@ Has utilizado la rúbrica para obtener tu **"Nota Base"**. Ahora, reflexiona hon
 
 ## Evidencia 2: diseño de inputs de clientes
 
-> Escribe aquí. Inicia cada renglón con un "> "
->
+> ![WhatsApp Image 2025-10-02 at 2 45 07 PM](https://github.com/user-attachments/assets/e20349d0-3d5d-4489-b320-203ec6644bdb)
+
 
 ## Evidencia 3: código del proyecto
 
@@ -134,10 +134,11 @@ de este repositorio.
 
 ### Evidencia 4: video demo del sistema funcionando
 
-[ESTE ES MI DEMO](https://youtu.be/your-video-link)
-
+[Visuales](https://youtu.be/8HRDL0jPBL0)
+[Conexión Socket.io](https://youtu.be/8x04opEBc2Q)
 
 ### Evidencia 5: interpretación en tiempo real
 
 
 [ ] Esta casilla la marcará el profesor cuando realices la interpretación en tiempo real.
+
