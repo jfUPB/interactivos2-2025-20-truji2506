@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Visuals</title>
+  <style>
+    :root { color-scheme: dark light; }
+    body { margin:0; background:#0a0a0a; color:#ddd; font-family: system-ui, sans-serif; }
+    #ui { position: fixed; top: 8px; left: 10px; font-size: 14px; }
+    canvas { display:block; width:100vw; height:100vh; }
+    pre { background:#1118; padding:.5rem; border-radius:8px; max-width:480px; }
+  </style>
+</head>
+<body>
+  <div id="ui">
+    <div><strong id="status">Conectando…</strong> · <span id="count">0</span> antenas</div>
+    <div>speed: <span id="spd">—</span> · density: <span id="dns">—</span></div>
+    <pre id="debug"></pre>
+  </div>
+  <canvas id="c"></canvas>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="./script.js"></script>
+</body>
+</html>
