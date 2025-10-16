@@ -121,8 +121,9 @@ Has utilizado la rúbrica para obtener tu **"Nota Base"**. Ahora, reflexiona hon
 
 ## Evidencia 2: diseño de inputs de clientes
 
-> Escribe aquí. Inicia cada renglón con un "> "
->
+
+> Diagrama de red:  
+> <img width="1012" height="571" alt="image" src="https://github.com/user-attachments/assets/29fa045d-d426-4a73-8cbe-863171f203f7" />
 
 ## Evidencia 3: código del proyecto
 
@@ -138,3 +139,4 @@ de este repositorio.
 
 
 [ ] Esta casilla la marcará el profesor cuando realices la interpretación en tiempo real.
+
