@@ -132,12 +132,13 @@ de este repositorio.
 
 ### Evidencia 4: video demo del sistema funcionando
 
-[ESTE ES MI DEMO]([https://youtu.be/VlbbGQ9aTQM])
+https://youtu.be/VlbbGQ9aTQM
 
 
 ### Evidencia 5: interpretación en tiempo real
 
 
 [ ] Esta casilla la marcará el profesor cuando realices la interpretación en tiempo real.
+
 
 
