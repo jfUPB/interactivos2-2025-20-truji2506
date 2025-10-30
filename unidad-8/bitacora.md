@@ -19,5 +19,6 @@ Has utilizado la rúbrica para obtener tu **"Nota Base"**. Ahora, reflexiona hon
 
 ---
 
-[Enlace al playlist](https://www.youtube.com/playlist?list=PL3luto4uXITUNp-fUdePt7dvu1S4I_iq_)
+[Enlace al playlist](https://www.youtube.com/playlist?list=PL3luto4uXITXQr0wZogAYSxRoQoYmAHNi)
+
 
